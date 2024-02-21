@@ -1,6 +1,6 @@
 import 'dart:js_interop';
 
-import 'package:foundation/library.dart';
+import 'package:pshondation/library.dart';
 
 import 'typedef.dart';
 
