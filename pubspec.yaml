@@ -17,4 +17,4 @@ dependencies:
 
   web_window_api:
     git:
-      url: https://github.com/pshonkaaa/package.web_window_api.dart.git
+      url: https://github.com/pshonkaaa/package.web_window_api.web.dart.git
