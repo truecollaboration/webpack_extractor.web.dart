@@ -1,0 +1,20 @@
+name: webpack_extractor
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+homepage:
+publish_to: none
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+  
+dependencies:
+  meta: any
+  js: any
+
+  foundation:
+    git:
+      url: https://github.com/pshonkaaa/package.foundation.dart.git
+
+  web_window_api:
+    git:
+      url: https://github.com/pshonkaaa/package.web_window_api.dart.git

@@ -1,0 +1,1 @@
+const THIS = "__this";
