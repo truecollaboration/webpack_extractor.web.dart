@@ -18,7 +18,7 @@ packages:
     source: hosted
     version: "0.19.0"
   js:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: js
       sha256: c1b2e9b5ea78c45e1a0788d29606ba27dc5f71f019f32ca5140f61ef071838cf
@@ -74,6 +74,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.0+1"
+  web:
+    dependency: "direct main"
+    description:
+      name: web
+      sha256: "97da13628db363c635202ad97068d47c5b8aa555808e7a9411963c533b449b27"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.1"
   web_window_api:
     dependency: "direct main"
     description:
@@ -84,4 +92,4 @@ packages:
     source: git
     version: "0.0.2"
 sdks:
-  dart: ">=3.1.1 <4.0.0"
+  dart: ">=3.3.1 <4.0.0"

@@ -5,15 +5,16 @@ homepage:
 publish_to: none
 
 environment:
-  sdk: '>=3.1.1 <4.0.0'
+  sdk: '>=3.3.1 <4.0.0'
   
 dependencies:
   meta: any
-  js: any
 
   pshondation:
     git:
       url: https://github.com/pshonkaaa/package.pshondation.dart.git
+      
+  web: any
 
   web_window_api:
     git:

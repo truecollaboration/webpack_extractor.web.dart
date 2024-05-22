@@ -1,10 +1,10 @@
 import 'dart:async';
-import 'dart:html';
 import 'dart:js';
 import 'dart:js_interop';
 import 'dart:js_util';
 
 import 'package:pshondation/library.dart';
+import 'package:web/web.dart';
 import 'package:web_window_api/library.dart';
 import 'package:webpack_extractor/src/common/js.dart';
 import 'package:webpack_extractor/src/external/webpack.dart';

@@ -1,8 +1,8 @@
 import 'dart:async';
-import 'dart:html';
 import 'dart:js_interop';
 import 'dart:js_util';
 
+import 'package:web/web.dart';
 import 'package:webpack_extractor/src/internal/webpack_extractor_impl.dart';
 
 import 'webpack.dart';
